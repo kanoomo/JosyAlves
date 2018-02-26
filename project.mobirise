@@ -57,7 +57,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dscf4652-2-2000x3555.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-746x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
