@@ -57,7 +57,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dscf4652-2-2000x3555.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -67,7 +67,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.3"
           },
           "title": "QUER UMA SESSÃO GRÁTIS<br>DE CUIDADOS COM A PELE?",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
@@ -82,7 +82,8 @@
               "color": "#ffffff",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "46px"
+              "font-size": "46px",
+              "text-align": "right"
             },
             ".mbr-section-title DIV": {
               "font-family": "'Open Sans Condensed', sans-serif",
@@ -103,9 +104,9 @@
             "showText": false,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "48",
+            "imageSize": "56",
             "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingBottom": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
